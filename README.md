@@ -1,4 +1,4 @@
-<table border=3>
+<table border=3 align="center">
 	<tr>
 		<td>
 			Circle
@@ -161,7 +161,25 @@
 			<!-- <a href="">minishell</a> -->
 		</td>
 		<td>
-			Language
+			C
+		</td>
+		<td>
+			WIP
+		</td>
+		<td>
+			Result
+		</td>
+	</tr>
+	<tr>
+		<td>
+			5
+		</td>
+		<td>
+			cub3d
+			<!-- <a href=""> </a> -->
+		</td>
+		<td>
+			C
 		</td>
 		<td>
 			Attempts
@@ -172,30 +190,14 @@
 	</tr>
 	<tr>
 		<td>
-			Circle
+			5
 		</td>
 		<td>
-			<a href=""> </a>
+			CPP[0-8]
+			<!-- <a href=""> </a> -->
 		</td>
 		<td>
-			Language
-		</td>
-		<td>
-			Attempts
-		</td>
-		<td>
-			Result
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Circle
-		</td>
-		<td>
-			<a href=""> </a>
-		</td>
-		<td>
-			Language
+			C++
 		</td>
 		<td>
 			Attempts
@@ -206,30 +208,14 @@
 	</tr>
 	<tr>
 		<td>
-			Circle
+			5
 		</td>
 		<td>
-			<a href=""> </a>
+			NetPractice
+			<!-- <a href=""> </a> -->
 		</td>
 		<td>
-			Language
-		</td>
-		<td>
-			Attempts
-		</td>
-		<td>
-			Result
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Circle
-		</td>
-		<td>
-			<a href=""> </a>
-		</td>
-		<td>
-			Language
+			</br>
 		</td>
 		<td>
 			Attempts
@@ -240,30 +226,14 @@
 	</tr>
 	<tr>
 		<td>
-			Circle
+			6
 		</td>
 		<td>
-			<a href=""> </a>
+			ft_irc
+			<!-- <a href=""> </a> -->
 		</td>
 		<td>
-			Language
-		</td>
-		<td>
-			Attempts
-		</td>
-		<td>
-			Result
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Circle
-		</td>
-		<td>
-			<a href=""> </a>
-		</td>
-		<td>
-			Language
+			C++
 		</td>
 		<td>
 			Attempts
@@ -274,13 +244,14 @@
 	</tr>
 	<tr>
 		<td>
-			Circle
+			6
 		</td>
 		<td>
-			<a href=""> </a>
+			ft_containers
+			<!-- <a href=""> </a> -->
 		</td>
 		<td>
-			Language
+			C++
 		</td>
 		<td>
 			Attempts
@@ -291,13 +262,32 @@
 	</tr>
 	<tr>
 		<td>
-			Circle
+			6
 		</td>
 		<td>
-			<a href=""> </a>
+			Inception
+			<!-- <a href=""> </a> -->
 		</td>
 		<td>
-			Language
+			</br>  
+		</td>
+		<td>
+			Attempts
+		</td>
+		<td>
+			Result
+		</td>
+	</tr>
+	<tr>
+		<td>
+			7
+		</td>
+		<td>
+			ft_trascendence
+			<!-- <a href=""> </a> -->
+		</td>
+		<td>
+			NestJS | TypeScript | SQL
 		</td>
 		<td>
 			Attempts
