@@ -4,7 +4,7 @@
 			Circle
 		</td>
 		<td>
-			<a href=""> </a>
+			Project
 		</td>
 		<td>
 			Language
@@ -192,14 +192,13 @@
 			5
 		</td>
 		<td>
-			CPP[0-8]
-			<!-- <a href=""> </a> -->
+			<a href="https://github.com/FranFrau/CPP">CPP[0-8]</a>
 		</td>
 		<td>
 			C++
 		</td>
 		<td>
-			Attempts
+			WIP
 		</td>
 		<td>
 			Result
