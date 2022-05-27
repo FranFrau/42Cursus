@@ -157,17 +157,16 @@
 			4
 		</td>
 		<td>
-			minishell
-			<!-- <a href="">minishell</a> -->
+			<a href="https://github.com/FranFrau/minishell">minishell</a>
 		</td>
 		<td>
 			C
 		</td>
 		<td>
-			WIP
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2544338" alt="ffrau's 42 minishell Score" />
 		</td>
 	</tr>
 	<tr>
