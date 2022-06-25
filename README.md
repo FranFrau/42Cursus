@@ -75,7 +75,7 @@
 			<a href="https://github.com/FranFrau/born2beroot">Born2BeRoot</a>
 		</td>
 		<td>
-			</br>
+			VM (OS: Debian) 
 		</td>
 		<td>
 			1
@@ -198,10 +198,10 @@
 			C++
 		</td>
 		<td>
-			WIP
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2636636" alt="ffrau's 42 CPP Module 08 Score" />
 		</td>
 	</tr>
 	<tr>
