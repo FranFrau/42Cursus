@@ -174,17 +174,16 @@
 			5
 		</td>
 		<td>
-			cub3d
-			<!-- <a href=""> </a> -->
+			<a href="https://github.com/FranFrau/cub3D">cub3d</a>
 		</td>
 		<td>
 			C
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2669423" alt="ffrau's 42 cub3d Score" />
 		</td>
 	</tr>
 	<tr>
@@ -209,17 +208,16 @@
 			5
 		</td>
 		<td>
-			NetPractice
-			<!-- <a href=""> </a> -->
+			<a href="https://github.com/FranFrau/NetPractice">NetPractice</a>
 		</td>
 		<td>
 			</br>
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2684293" alt="ffrau's 42 NetPractice Score" />
 		</td>
 	</tr>
 	<tr>
