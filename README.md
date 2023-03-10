@@ -226,16 +226,15 @@
 		</td>
 		<td>
 			ft_irc
-			<!-- <a href=""> </a> -->
 		</td>
 		<td>
 			C++
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2838264" alt="ffrau's 42 ft_irc Score" />
 		</td>
 	</tr>
 	<tr>
@@ -243,17 +242,16 @@
 			6
 		</td>
 		<td>
-			ft_containers
-			<!-- <a href=""> </a> -->
+			<a href="https://github.com/FranFrau/webserv">webserv</a>
 		</td>
 		<td>
 			C++
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2734884" alt="ffrau's 42 webserv Score" />
 		</td>
 	</tr>
 	<tr>
@@ -261,17 +259,33 @@
 			6
 		</td>
 		<td>
-			Inception
-			<!-- <a href=""> </a> -->
+			<a href="https://github.com/FranFrau/ft_containers">ft_containers</a>
+		</td>
+		<td>
+			C++
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2734892" alt="ffrau's 42 ft_containers Score" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			6
+		</td>
+		<td>
+			<a href="https://github.com/FranFrau/inception">Inception</a>
 		</td>
 		<td>
 			</br>  
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2734891" alt="ffrau's 42 Inception Score" />
 		</td>
 	</tr>
 	<tr>
@@ -280,16 +294,15 @@
 		</td>
 		<td>
 			ft_trascendence
-			<!-- <a href=""> </a> -->
 		</td>
 		<td>
 			NestJS | TypeScript | SQL
 		</td>
 		<td>
-			Attempts
+			1
 		</td>
 		<td>
-			Result
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2838265" alt="ffrau's 42 ft_transcendence Score" />
 		</td>
 	</tr>
 </table>
